@@ -1,6 +1,5 @@
-<center>
-
-</center>
+## 무아에요.
+### 아주 평범한 디스코드 봇을 만들고 있는 사람이죠.
 
 You can use the [editor on GitHub](https://github.com/mua1048/muayua/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
