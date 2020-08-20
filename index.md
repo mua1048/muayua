@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 무아에요.
 
 You can use the [editor on GitHub](https://github.com/mua1048/muayua/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
