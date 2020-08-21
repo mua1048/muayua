@@ -49,7 +49,6 @@
 .button:active {
   background-color: #000000;
   color: #fff;
-  window.scrollTo({top:10, left:0, behavior:'auto'});
 }
 	</style>
 <hr>
@@ -79,6 +78,7 @@
 <head>
 <body>
     <div class="wrap">
+    <input type="button" value="BACK" onClick="history.go(-1)">
     <button class="button">더 알아보기</button>
     </div>
 	<hr>
