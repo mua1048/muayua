@@ -1,1 +1,78 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="icon" href="/favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MUAYUA</title>
+    <meta property="og:url" content="https://muakr.kro.kr/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="MUAKR" />
+    <meta property="og:description" content="MUAYUA" />
+    <meta property="og:image" content="favicon.png" />
+    <noscript>안녕하세요:) 참고로 아직 미완성 이에요!</noscript>
+    	<style>
+		@font-face {
+		font-family: 'Recipekorea';
+		src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/Recipekorea.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+		}
+		h1{
+            		text-align: center;
+			color: white;
+			padding: 290px 0px 0 0px;
+        	}
+		h4{
+			text-align: center;
+			color: white;
+			padding: 260px 0px 0 0px;
+		}
+		footer {
+    		display: flex;
+    		justify-content: center;
+    		padding: 5px;
+    		background: linear-gradient(to right, #c5fad0, #c5faf9, #f1c3f7);
+    		color: black;
+		}
+	</style>
+</head>
+<body bgcolor='black'>
+    <h1>
+        <center>
+            <span style="color:white">
+                <span style="font-family: Recipekorea; color: blue; inline-block;">무아</span>
+		<span style="font-family: Recipekorea; inline-block;">에요</span>
+                <span style="font-family: Recipekorea; color: blue; display: inline-block;">.</span>
+            </span>
+        </center>
+    </h1>
+    <center>
+        <p style="font-family: Recipekorea; color: white; font-size: 25px">
+            그저 평범한 디코봇을 개발하고 있는 사람이죠.<br>
+        </p>
+    </center>
+    <h4>
+	    <p style="font-family: Recipekorea; color: white; font-size: 18px">더 알아보기<br>▼</p>
+	    <br>
+	    <br>
+	    <p style="font-family: Recipekorea; color: white; font-size: 15px">준비중</p>
+    </h4>
+    <br>
+    <br>
+    <br>
+    <hr>
+    <br>
+    <br>
+    <br>
+    <footer>
+    <p>
+        <span style="font-family: Recipekorea;">discord: MUAYUA#0988</span><br/>
+        <span style="font-family: Recipekorea;">email: moon1048@kakao.com</span><br>
+        <span style="font-family: Recipekorea;">Copyright 2020. MUAYUA All Rights Reserved.</span><span style="font-family: Recipekorea;"> | 폰트정보:muakr.kro.kr/font</span>
+    </p>
+</footer>
+</body>
+</html>
 
